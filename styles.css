@@ -141,7 +141,7 @@ a {
     }
 
     .title-image {
-        position: static;
+/*         position: static; */
         transform: rotate(0);
         display: block;
         margin-left: auto;
