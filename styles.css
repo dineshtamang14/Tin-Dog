@@ -143,7 +143,9 @@ a {
     .title-image {
         position: static;
         transform: rotate(0);
-        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
